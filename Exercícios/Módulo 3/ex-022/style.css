@@ -5,6 +5,7 @@
 }
 
 body{
+    background-image: url(imagens/wallpaper001.jpg);
 
 }
 div{
@@ -31,6 +32,6 @@ div#q2{
 }
 
 div#q3{
-    background-image: url(imagens/pattern);
+    background-image: url(imagens/pattern003.png);
 
 }
